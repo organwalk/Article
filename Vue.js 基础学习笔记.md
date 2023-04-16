@@ -1,4 +1,4 @@
-# Vue.js 学习笔记
+# Vue.js 基础学习笔记
 
 Vue3 是一种流行的 JavaScript 框架，用于构建现代化的 Web 应用程序。Vue3 相对于 Vue2 来说，有许多新的特性和改进，包括更好的性能、更好的 TypeScript 支持、更好的可维护性等等。
 
