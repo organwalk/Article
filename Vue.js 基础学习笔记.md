@@ -2001,18 +2001,3 @@ npm run build
 参考官方文档：
 
 [Vue CLI]: https://cli.vuejs.org/zh/guide/
-
-### 安全
-
-参考官方文档：
-
-[安全]: https://cn.vuejs.org/guide/best-practices/security.html
-
-## 推荐阅读
-
-[《Vue.js设计与实现》霍春阳]: https://weread.qq.com/web/bookDetail/c5c32170813ab7177g0181ae
-
-## 文档部分源码
-
-[VueStudy_Test]: https://github.com/organwalk/vuestudy_test
-
